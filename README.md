@@ -15,4 +15,6 @@ For a reference of others who have tried. Here is a list:
 
 **Leftoff:**
 
-Page 39. Lecture 1: CSE 373 --- Introduction to Algorithms (Fall 2021) 0:00
+Page 39.
+
+Lecture 2: CSE 373 --- Lecture 2: Asymptotic Notation (Fall 2021) 0:00
